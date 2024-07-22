@@ -1,0 +1,20 @@
+.Title {
+    text-align: center;
+    color: blue;
+}
+
+.About.me {
+    display: inline-block;
+    padding: 0.5%;
+    color: red;
+    border: 5px solid red;
+}
+
+.Social.media {
+    /*4 prox linhas Centralizam os itens */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: blue;
+}
